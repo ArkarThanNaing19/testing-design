@@ -1,0 +1,328 @@
+a:active,
+a:hover {
+    color: #3498db
+}
+
+mark {
+    background: #3498db;
+    color: #000
+}
+
+.theme-color {
+    color: #3498db
+}
+
+a#scrollUp {
+    background: #3498db
+}
+
+a#scrollUp:hover,
+a:hover,
+.color--theme {
+    color: #3498db
+}
+
+.bg--theme {
+    background: #3498db
+}
+
+[data-overlay]:before {
+    background-color: #3498db
+}
+
+.owl-theme .owl-nav [class*=owl-]:hover {
+    color: #3498db;
+    border-color: #3498db
+}
+
+.social__net.social__net--2 li a:hover,
+.social__net.social__net--3 li a:hover {
+    border-color: #3498db;
+    color: #3498db
+}
+
+.social__net--4 li a:hover,
+.block-bg .close__wrap:hover,
+.box-menu-content .ppnav .ppmainmenu li:hover a,
+.box-menu-content .ppnav .ppmainmenu li.drop .ppmegamenu .item li a:hover,
+.minicart-content-wrapper .micart__close:hover {
+    color: #3498db
+}
+
+.minicart-content-wrapper .mini_action .checkout__btn:hover {
+    background: #3498db none repeat scroll 0 0
+}
+
+.minicart-content-wrapper .mini_action .cart__btn:hover {
+    background-color: #3498db;
+    border-color: #3498db
+}
+
+.minicart-content-wrapper .single__items .miniproduct .item01 .content h6 a:hover,
+.minicart-content-wrapper .single__items .miniproduct .item01 .content .product_prize ul li i:hover,
+.mainmenu__nav .meninmenu li a:hover,
+.meninmenu li.drop .megamenu .item li a:hover {
+    color: #3498db
+}
+
+.switcher__account>ul>li:hover a {
+    color: #3498db
+}
+
+.switcher__account>ul>li.drop .dropdown li a:hover {
+    color: #3498db
+}
+
+.testimonial__container .slick-arrow:hover {
+    background: #3498db;
+    border-color: #3498db
+}
+
+.product .product__content .action .actions_inner .add_to_links li a.quickview:hover {
+    background-color: #3498db
+}
+
+.rating li.on i {
+    color: #3498db
+}
+
+.product__nav a:hover,
+.product__nav a.active {
+    color: #3498db;
+    transition: all .3s ease-in 0s
+}
+
+.product__nav a.item__before:before {
+    background: #3498db none repeat scroll 0 0
+}
+
+.s-price-box span.new-price {
+    color: #3498db
+}
+
+.addtocart-btn a:hover {
+    background: #3498db
+}
+
+.newsletter__block .newsletter__box button:hover,
+.slide .slider__content h1 span,
+.slide .slider__content a.shopbtn:hover {
+    color: #3498db
+}
+
+.slide__arrow01.owl-theme .owl-nav [class*=owl-]:hover {
+    color: #3498db;
+    border: 1px solid #3498db
+}
+
+.wenro__blog .content h2 a:hover {
+    color: #3498db
+}
+
+.wenro__blog .content .blog__btn:hover {
+    border-color: #3498db;
+    color: #3498db
+}
+
+.blog-page .blog__post .content h4 a:hover,
+.blog-page .blog__post .content .blog__btn a:hover,
+.post-meta ul li a i,
+.bradcaump__inner .bradcaump-content .breadcrumb_item.active,
+.bradcaump__inner .bradcaump-content .breadcrumb_item:hover,
+.product__info__main .product-info-stock-sku p span,
+.product__info__main .product-reviews-summary .rating-summary li i,
+.product__info__main .product-reviews-summary .reviews-actions a:hover {
+    color: #3498db
+}
+
+.product__info__main .box-tocart .addtocart__actions .tocart:hover,
+.product__info__main .product-addto-links a:hover {
+    background-color: #3498db;
+    border-color: #3498db
+}
+
+.wn__sidebar .widget.recent_widget .recent-posts ul li .post-wrapper .content h4 a:hover,
+.wn__sidebar .widget.comment_widget ul li .post-wrapper .content a:hover,
+.wn__sidebar .widget.category_widget ul li a:hover,
+.wn__sidebar .widget.archives_widget ul li a:hover {
+    color: #3498db
+}
+
+.blog-details .comments_area .comment__title:after {
+    background: #3498db none repeat scroll 0 0
+}
+
+.blog-details .comments_area .comment__list li .wn__comment .content .comnt__author span a,
+.blog-details .comments_area .comment__list li .wn__comment .content .comnt__author .reply__btn a {
+    color: #3498db
+}
+
+.blog-details .comment_respond h3.reply_title:after {
+    background: #3498db none repeat scroll 0 0
+}
+
+.blog-details .comment_respond h3.reply_title small a {
+    color: #3498db
+}
+
+.blog-details .comment_respond .comment__form .submite__btn a:hover,
+.contact-form-wrap .contact-btn button:hover {
+    border-color: #3498db;
+    color: #3498db
+}
+
+.account__form .input__box label span {
+    color: #3498db
+}
+
+.account__form .form__btn button:hover {
+    border-color: #3498db;
+    color: #3498db
+}
+
+.account__form .forget_pass,
+.table-content table td.product-name a:hover {
+    color: #3498db
+}
+
+.cart__btn__list li a:hover,
+.cart__total__amount {
+    background: #3498db none repeat scroll 0 0
+}
+
+.product-stock-status span.wishlist-in-stock {
+    color: #3498db
+}
+
+.product-add-to-cart a:hover {
+    border: 2px solid #3498db;
+    color: #3498db
+}
+
+.checkout_info {
+    border-top: 3px solid #3498db;
+    border-top-color: #3498db
+}
+
+.checkout_info:before {
+    color: #3498db
+}
+
+.checkout_info a.showlogin,
+.checkout_info a.showcoupon {
+    color: #3498db
+}
+
+.wn__checkout__form .form__btn button:hover {
+    border-color: #3498db;
+    color: #3498db
+}
+
+.wn__checkout__form .form__btn .label-for-checkbox a,
+.checkout_coupon .form__coupon button:hover,
+.wedget__categories.poroduct--cat ul li a:hover,
+.wedget__categories.sidebar--banner .text h2,
+.wedget__categories.sidebar--banner .text h6 strong {
+    color: #3498db
+}
+
+.list__view .content .cart__action li.wishlist a:hover,
+.list__view .content .cart__action li.compare a:hover {
+    border: 2px solid #3498db;
+    background-color: #3498db
+}
+
+.footer__menu .footer__content .mainmenu li a:hover {
+    color: #3498db
+}
+
+.quick-btn:hover {
+    background: #3498db none repeat scroll 0 0
+}
+
+.section__title h2 span,
+.bradcaump-content li span,
+.wedget__categories.poroduct--cat ul li.active a {
+    color: #3498db
+}
+
+.list__view .content .cart__action li.quickview a:hover {
+    border: 2px solid #3498db;
+    background-color: #3498db
+}
+
+.swatch-element input:checked+label {
+    color: #3498db
+}
+
+.swatch-element>label:hover {
+    color: #3498db
+}
+
+.swatch-element.color input:checked+label,
+.swatch-element.color label:hover {
+    outline: 2px solid #3498db
+}
+
+.product__info__main .product-addto-links a:hover,
+.product__info__main .product-addto-links a.is-active {
+    background-color: #3498db;
+    border-color: #3498db
+}
+
+.ajax-popup .modal-footer a:hover {
+    background: #3498db;
+    border-color: #3498db
+}
+
+.cart__btn__list li input:hover {
+    background: #3498db none repeat scroll 0 0
+}
+
+.blog-details .comment_respond .comment__form .submite__btn button:hover {
+    border-color: #3498db;
+    color: #3498db
+}
+
+.mainmenu__nav .meninmenu li.drop .megamenu.normal-dropdown a.item:hover {
+    color: #3498db
+}
+
+.product .product__content .action .actions_inner .add_to_links li a.is-active {
+    background: #3498db
+}
+
+.slider--15 .slide .slider__content h2 span {
+    color: #3498db
+}
+
+.contentbox>h3 {
+    color: #3498db
+}
+
+.product .product__thumb .hot__box {
+    background: #3498db none repeat scroll 0 0
+}
+
+.product .product__thumb .hot__box:after {
+    border-color: transparent transparent transparent #3498db
+}
+
+.product.product__style--3 .product__content .prize li {
+    color: #3498db
+}
+
+.product .product__content .action .actions_inner .add_to_links li a:hover {
+    background-color: #3498db
+}
+
+.header__area .header__sidebar__right>li.shopcart>a span.product_qun {
+    background: #3498db
+}
+
+
+/* New */
+
+.sticky__header.is-sticky {
+    background-color:  #3498db;
+}
